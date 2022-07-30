@@ -1,9 +1,10 @@
-👋 Salut!
+# <p align = center> JUDITH BOURQUE </p>
 
-Je m'intéresse à la science politique, à la sociologie et à l'analyse des données.
+## <p align = center> Masters Student in Political Science, Université Laval </p>
 
----
+🐦 **Twitter:** [@judith_bourq](https://twitter.com/judith_bourq)
 
-👋 Hi!
+Hi there! I'm interested in political science and data analysis.
 
-I'm interested in political science, sociology and data analysis.
+**Education**
+* B. Soc. Sc. Sociology, Université de Moncton
