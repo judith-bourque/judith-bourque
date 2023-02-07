@@ -9,4 +9,4 @@ I study computer science at Université Laval 🇨🇦.
 * 📘 Maintaining [clessn/memoire-ulaval](https://github.com/clessn/memoire-ulaval), an `.Rmd` template for a master's degree memoire at Université Laval.
 * 🌐 Exploring Wikimedia data through the MediaWiki Action API for a research paper.
 * :snake: Learning Python.
-* 🤓 In my spare time, I enjoy contributing to Wikipedia and its sister projects.
+* 👩‍💻 In my spare time, I enjoy contributing to Wikipedia and its sister projects.
