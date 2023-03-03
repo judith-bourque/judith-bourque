@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-I study computer science at Université Laval 🇨🇦.
+I study computer science at Université Laval 🇨🇦. My areas of expertise are open data, politics and R.
 
 **What am I up to?**
 
