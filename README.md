@@ -4,9 +4,9 @@ I study computer science at Université Laval 🇨🇦. My areas of expertise ar
 
 **What am I up to?**
 
-* 📦 Documenting [clessn/hublotr](https://github.com/clessn/hublotr), an R package for research database access at Université Laval.
-* 📦 Documenting [clessn/clessnverse](https://github.com/clessn/clessnverse), an R package for data domestication, analysis and visualization.
+* 📦 Developping [clessn/clessnverse](https://github.com/clessn/clessnverse), an R package for data domestication, analysis and visualization.
+* 📦 Developping an R package to get data from the MediaWiki Action API
+* 📦 Maintaining [clessn/hublotr](https://github.com/clessn/hublotr), an R package for research database access at Université Laval.
 * 📘 Maintaining [clessn/memoire-ulaval](https://github.com/clessn/memoire-ulaval), an `.Rmd` template for a master's degree memoire at Université Laval.
-* 🌐 Exploring Wikimedia data through the MediaWiki Action API for a research paper.
 * :snake: Learning Python.
-* 👩‍💻 In my spare time, I enjoy contributing to Wikipedia and its sister projects.
+* 👩‍💻 And in my spare time, I enjoy contributing to Wikipedia and its sister projects.
