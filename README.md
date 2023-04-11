@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-I study computer science at Université Laval 🇨🇦. My areas of expertise are open data, politics and R packages.
+I create R packages for open data so you don't have to.
 
 **What am I up to?**
 
