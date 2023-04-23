@@ -1,10 +1,10 @@
 ### Hi there! 👋 
 
-I bring open data to R by building R packages.
+I bring open data to you through R packages.
 
 **What am I up to?**
 
-I'm developping the following R packages:
+I'm working on the following R packages:
 
 * 📦 [`wikirest`](https://github.com/clessn/wikirest) - Get data from the [Wikimedia REST API](https://wikimedia.org/api/rest_v1/)
 * 📦 [`locateip`](https://github.com/clessn/locateip) - Locate IP addresses with [ip-api](https://ip-api.com/)
