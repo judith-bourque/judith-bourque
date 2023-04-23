@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-I bring open data to R users by creating R packages.
+I bring open data to R by building R packages.
 
 **What am I up to?**
 
