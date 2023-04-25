@@ -14,6 +14,6 @@ I'm building the following R packages:
 
 I'm also...
 
-* 📦 maintaining [`hublotr`](https://github.com/clessn/hublotr), an R package for research database access at Université Laval
-* 📘 maintaining [`memoire-ulaval`](https://github.com/clessn/memoire-ulaval), an `.Rmd` template for a master's degree memoire at Université Laval
+* 📦 Maintaining [`hublotr`](https://github.com/clessn/hublotr), an R package for research database access at Université Laval
+* 📘 Maintaining [`memoire-ulaval`](https://github.com/clessn/memoire-ulaval), an `.Rmd` template for a master's degree memoire at Université Laval
 * :snake: Learning Python
