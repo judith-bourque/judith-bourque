@@ -1,10 +1,10 @@
-### Hi there! 👋 
+### Hi there! 👋
 
-I bring open data to you through R packages.
+I bring open data to you through convenient R packages.
 
 **What am I up to?**
 
-I'm working on the following R packages:
+I'm building the following R packages:
 
 * 📦 [`wikirest`](https://github.com/clessn/wikirest) - Get data from the [Wikimedia REST API](https://wikimedia.org/api/rest_v1/)
 * 📦 [`nytapi`](https://github.com/clessn/nytapi) - Get data from the [New York Times API](https://developer.nytimes.com/)
@@ -13,6 +13,7 @@ I'm working on the following R packages:
 * 📦 [`clessnverse`](https://github.com/clessn/clessnverse) - Domesticate, analyse and visualise data
 
 I'm also...
+
 * 📦 maintaining [`hublotr`](https://github.com/clessn/hublotr), an R package for research database access at Université Laval
 * 📘 maintaining [`memoire-ulaval`](https://github.com/clessn/memoire-ulaval), an `.Rmd` template for a master's degree memoire at Université Laval
 * :snake: Learning Python
