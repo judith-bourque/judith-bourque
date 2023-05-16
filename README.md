@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I bring open data to you through convenient R packages.
+I study computer science at Université Laval 🇨🇦. My areas of expertise are open data, politics and R packages.
 
 **What am I up to?**
 
@@ -9,7 +9,7 @@ I'm building the following R packages:
 * 📦 [`wikirest`](https://github.com/clessn/wikirest) - Get data from the [Wikimedia REST API](https://wikimedia.org/api/rest_v1/)
 * 📦 [`nytapi`](https://github.com/clessn/nytapi) - Get data from the [New York Times API](https://developer.nytimes.com/)
 * 📦 [`locateip`](https://github.com/clessn/locateip) - Locate IP addresses with [ip-api](https://ip-api.com/)
-* 📦 `wikiapir` - Get data from the [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page)
+* 📦 `wikiaction` - Get data from the [MediaWiki Action API](https://www.mediawiki.org/wiki/API:Main_page)
 * 📦 [`clessnverse`](https://github.com/clessn/clessnverse) - Domesticate, analyse and visualise data
 
 I'm also...
